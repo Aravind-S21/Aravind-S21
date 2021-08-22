@@ -1,4 +1,4 @@
-[![Instagram logo](https://www.google.com/imgres?imgurl=https%3A%2F%2F1000logos.net%2Fwp-content%2Fuploads%2F2017%2F02%2FInstagram-app-logo.jpg&imgrefurl=https%3A%2F%2F1000logos.net%2Finstagram-logo%2F&tbnid=XDeSWylATAiqJM&vet=12ahUKEwiL2JvkgcXyAhWNVCsKHZLnBMgQMygPegUIARDtAQ..i&docid=EQSQBx3e2exEMM&w=1428&h=1080&q=instagram%20logo&ved=2ahUKEwiL2JvkgcXyAhWNVCsKHZLnBMgQMygPegUIARDtAQ)](https://www.instagram.com/_aravind_selvaraj_/)
+[![Instagram](extras/https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcvS_D1cGdFEtDTWBMw8cSbC-009-diqziTw&usqp=CAU)](https://www.instagram.com/_aravind_selvaraj_/)
 
 - 👋 Hi, I’m @Aravind-S21
 - 👀 I’m interested in coding
