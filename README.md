@@ -1,5 +1,5 @@
-![Instagram logo image](extras/logo.gif)
-[Insta](https://www.instagram.com/_aravind_selvaraj_/)
+[![Instagram logo image ](![image](https://user-images.githubusercontent.com/53845361/130363074-6a443cd3-6b77-4871-af87-97de456f9ec8.png)
+)](https://www.instagram.com/_aravind_selvaraj_/)
 - 👋 Hi, I’m @Aravind-S21
 - 👀 I’m interested in coding
 - 🌱 I’m doing ug B.E CSE
