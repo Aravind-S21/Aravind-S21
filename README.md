@@ -4,7 +4,5 @@
 - 💞️ I’m looking to collaborate on any small projects with any language
 - 📫 How to reach me araviaravind837@gmail.com
 
-<!---
-Aravind-S21/Aravind-S21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+**You found a secret! Aravind-S21/Aravind-S21 is a ✨special ✨ repository that you can use to add a README.md to your GitHub profile. Make sure it’s public and initialize it with a README to get started.
