@@ -5,4 +5,4 @@
 - 📫 How to reach me araviaravind837@gmail.com
 
 
-**You found a secret! Aravind-S21/Aravind-S21 is a ✨special ✨ repository that you can use to add a README.md to your GitHub profile. Make sure it’s public and initialize it with a README to get started.
+**You found a secret! Aravind-S21/Aravind-S21 is a ✨special ✨ repository that you can use to add a README.md to your GitHub profile. Make sure it’s public and initialize it with a README to get started.**
