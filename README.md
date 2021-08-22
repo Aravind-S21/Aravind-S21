@@ -1,5 +1,5 @@
-[![Instagram](extras/https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcvS_D1cGdFEtDTWBMw8cSbC-009-diqziTw&usqp=CAU)](https://www.instagram.com/_aravind_selvaraj_/)
-
+![Instagram logo image](extras/logo.gif)
+[Insta](https://www.instagram.com/_aravind_selvaraj_/)
 - 👋 Hi, I’m @Aravind-S21
 - 👀 I’m interested in coding
 - 🌱 I’m doing ug B.E CSE
